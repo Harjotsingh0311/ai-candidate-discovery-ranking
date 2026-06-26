@@ -1,0 +1,50 @@
+# Git
+.git
+.gitignore
+
+# Python
+.venv
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode
+.idea
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# Environment
+.env
+
+# Build
+build
+dist
+
+# HuggingFace
+.cache
+**/.cache
+
+# Chroma Database
+artifacts/chroma_db
+
+# Models
+models
+checkpoints
+weights
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Logs
+logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
