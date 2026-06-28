@@ -161,9 +161,9 @@ HACK_SKILL
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/Harjotsingh1103/<YOUR_REPOSITORY>.git
+git clone https://github.com/Harjotsingh0311/ai-candidate-discovery-ranking.git
 
-cd <YOUR_REPOSITORY>
+cd <ai-candidate-discovery-ranking>
 ```
 
 ---
