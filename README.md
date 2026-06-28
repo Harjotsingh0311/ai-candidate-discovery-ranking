@@ -163,7 +163,7 @@ HACK_SKILL
 ```bash
 git clone https://github.com/Harjotsingh0311/ai-candidate-discovery-ranking.git
 
-cd <ai-candidate-discovery-ranking>
+cd HACK_SKILL
 ```
 
 ---
