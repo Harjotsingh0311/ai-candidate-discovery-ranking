@@ -23,7 +23,7 @@ This project introduces an **AI-powered Candidate Discovery & Ranking System** t
 * 📊 Behavioral Intelligence
 * 🎯 Hybrid Ranking
 
-to retrieve and rank candidates similarly to how an experienced recruiter would.
+To retrieve and rank candidates similarly to how an experienced recruiter would.
 
 ---
 
